@@ -1,0 +1,6 @@
+src/main/java/com/example/onlinecourse/
+  ├── controller/
+  ├── model/
+  ├── repository/
+  ├── service/
+  ├── OnlineCourseApplication.java
